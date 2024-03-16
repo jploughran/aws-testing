@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awstesting97cf946c": {}
+      },
+      "api": {
+        "awstesting": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
